@@ -14,6 +14,8 @@ If you just want to play the game (and don't want to play it [online](https://ni
 
 and then just directly view the file [doom.html](doom.html) from your browser.
 
+Bitcoin implementation which runs in your browser. https://ordinals.com/inscription/521f8eccffa4c41a3a7728dd012ea5a4a02feed81f41159231251ecf1e5c79dai0
+
 
 ### I want to see developer mode
 
